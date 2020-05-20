@@ -20,4 +20,3 @@ class ExampleUnitTest {
         assertEquals(6, 3 + 2)
     }
 }
-}
